@@ -1,0 +1,345 @@
+name: Tesla T4
+major: 7 minor: 5 memoryClockRate (GHz) 1.59
+pciBusID 0000:00:04.0
+Total memory: 14.73GiB
+Free memory: 14.60GiB
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla T4, pci bus id: 0000:00:04.0)
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 10290 get requests, put_count=8278 evicted_count=1000 eviction_rate=0.120802 and unsatisfied allocation rate=0.30243
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:259] Raising pool_size_limit_ from 100 to 110
+Epoch:   1/5, Batch:    0/5417, Training Loss Error:  0.091, Training Time on 100 Batches: 6564 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 9207 get requests, put_count=8552 evicted_count=2000 eviction_rate=0.233863 and unsatisfied allocation rate=0.289888
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:259] Raising pool_size_limit_ from 160 to 176
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 508 get requests, put_count=1535 evicted_count=1000 eviction_rate=0.651466 and unsatisfied allocation rate=0.0019685
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 1201 get requests, put_count=3244 evicted_count=2000 eviction_rate=0.616523 and unsatisfied allocation rate=0.000832639
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 6952 get requests, put_count=6579 evicted_count=1000 eviction_rate=0.151999 and unsatisfied allocation rate=0.208861
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:259] Raising pool_size_limit_ from 871 to 958
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 13631 get requests, put_count=16537 evicted_count=4000 eviction_rate=0.241882 and unsatisfied allocation rate=0.0895752
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:259] Raising pool_size_limit_ from 1400 to 1540
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 859 get requests, put_count=2131 evicted_count=1000 eviction_rate=0.469263 and unsatisfied allocation rate=0
+Epoch:   1/5, Batch:  100/5417, Training Loss Error: 19.173, Training Time on 100 Batches: 88 seconds
+Epoch:   1/5, Batch:  200/5417, Training Loss Error: 12.190, Training Time on 100 Batches: 53 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 976 get requests, put_count=2414 evicted_count=1000 eviction_rate=0.41425 and unsatisfied allocation rate=0
+Epoch:   1/5, Batch:  300/5417, Training Loss Error: 12.237, Training Time on 100 Batches: 35 seconds
+Epoch:   1/5, Batch:  400/5417, Training Loss Error: 19.462, Training Time on 100 Batches: 45 seconds
+Epoch:   1/5, Batch:  500/5417, Training Loss Error: 17.013, Training Time on 100 Batches: 38 seconds
+Epoch:   1/5, Batch:  600/5417, Training Loss Error: 20.160, Training Time on 100 Batches: 55 seconds
+Epoch:   1/5, Batch:  700/5417, Training Loss Error: 12.349, Training Time on 100 Batches: 49 seconds
+Epoch:   1/5, Batch:  800/5417, Training Loss Error: 12.608, Training Time on 100 Batches: 69 seconds
+Epoch:   1/5, Batch:  900/5417, Training Loss Error: 13.286, Training Time on 100 Batches: 85 seconds
+Epoch:   1/5, Batch: 1000/5417, Training Loss Error: 16.637, Training Time on 100 Batches: 55 seconds
+Epoch:   1/5, Batch: 1100/5417, Training Loss Error: 43.136, Training Time on 100 Batches: 89 seconds
+Epoch:   1/5, Batch: 1200/5417, Training Loss Error: 45.827, Training Time on 100 Batches: 86 seconds
+Epoch:   1/5, Batch: 1300/5417, Training Loss Error: 18.098, Training Time on 100 Batches: 128 seconds
+Epoch:   1/5, Batch: 1400/5417, Training Loss Error: 14.388, Training Time on 100 Batches: 49 seconds
+Epoch:   1/5, Batch: 1500/5417, Training Loss Error: 10.828, Training Time on 100 Batches: 44 seconds
+Epoch:   1/5, Batch: 1600/5417, Training Loss Error: 13.323, Training Time on 100 Batches: 82 seconds
+Epoch:   1/5, Batch: 1700/5417, Training Loss Error:  7.602, Training Time on 100 Batches: 56 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 11168831 get requests, put_count=11168304 evicted_count=7000 eviction_rate=0.000626774 and unsatisfied allocation rate=0.000721383
+Epoch:   1/5, Batch: 1800/5417, Training Loss Error:  5.911, Training Time on 100 Batches: 41 seconds
+Epoch:   1/5, Batch: 1900/5417, Training Loss Error:  4.447, Training Time on 100 Batches: 90 seconds
+Epoch:   1/5, Batch: 2000/5417, Training Loss Error:  6.010, Training Time on 100 Batches: 56 seconds
+Epoch:   1/5, Batch: 2100/5417, Training Loss Error:  9.716, Training Time on 100 Batches: 43 seconds
+Epoch:   1/5, Batch: 2200/5417, Training Loss Error:  4.843, Training Time on 100 Batches: 79 seconds
+Epoch:   1/5, Batch: 2300/5417, Training Loss Error:  5.780, Training Time on 100 Batches: 120 seconds
+Epoch:   1/5, Batch: 2400/5417, Training Loss Error:  5.407, Training Time on 100 Batches: 42 seconds
+Epoch:   1/5, Batch: 2500/5417, Training Loss Error:  7.333, Training Time on 100 Batches: 84 seconds
+Epoch:   1/5, Batch: 2600/5417, Training Loss Error:  3.535, Training Time on 100 Batches: 99 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 19503143 get requests, put_count=19503399 evicted_count=17000 eviction_rate=0.000871643 and unsatisfied allocation rate=0.000885703
+Epoch:   1/5, Batch: 2700/5417, Training Loss Error:  4.187, Training Time on 100 Batches: 63 seconds
+Validation Loss Error:  7.113, Batch Validation Time: 192 seconds
+I speak better now!!
+Epoch:   1/5, Batch: 2800/5417, Training Loss Error:  3.397, Training Time on 100 Batches: 77 seconds
+Epoch:   1/5, Batch: 2900/5417, Training Loss Error:  4.345, Training Time on 100 Batches: 42 seconds
+Epoch:   1/5, Batch: 3000/5417, Training Loss Error:  3.484, Training Time on 100 Batches: 98 seconds
+Epoch:   1/5, Batch: 3100/5417, Training Loss Error:  5.549, Training Time on 100 Batches: 134 seconds
+Epoch:   1/5, Batch: 3200/5417, Training Loss Error:  3.783, Training Time on 100 Batches: 76 seconds
+Epoch:   1/5, Batch: 3300/5417, Training Loss Error:  3.432, Training Time on 100 Batches: 56 seconds
+Epoch:   1/5, Batch: 3400/5417, Training Loss Error:  6.631, Training Time on 100 Batches: 80 seconds
+Epoch:   1/5, Batch: 3500/5417, Training Loss Error:  3.961, Training Time on 100 Batches: 64 seconds
+Epoch:   1/5, Batch: 3600/5417, Training Loss Error:  3.565, Training Time on 100 Batches: 48 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 29926539 get requests, put_count=29927017 evicted_count=27000 eviction_rate=0.000902195 and unsatisfied allocation rate=0.000903947
+Epoch:   1/5, Batch: 3700/5417, Training Loss Error: 14.624, Training Time on 100 Batches: 119 seconds
+Epoch:   1/5, Batch: 3800/5417, Training Loss Error: 20.743, Training Time on 100 Batches: 68 seconds
+Epoch:   1/5, Batch: 3900/5417, Training Loss Error:  7.906, Training Time on 100 Batches: 116 seconds
+Epoch:   1/5, Batch: 4000/5417, Training Loss Error:  7.827, Training Time on 100 Batches: 73 seconds
+Epoch:   1/5, Batch: 4100/5417, Training Loss Error:  6.552, Training Time on 100 Batches: 68 seconds
+Epoch:   1/5, Batch: 4200/5417, Training Loss Error:  5.136, Training Time on 100 Batches: 83 seconds
+Epoch:   1/5, Batch: 4300/5417, Training Loss Error:  3.649, Training Time on 100 Batches: 96 seconds
+Epoch:   1/5, Batch: 4400/5417, Training Loss Error:  3.570, Training Time on 100 Batches: 65 seconds
+Epoch:   1/5, Batch: 4500/5417, Training Loss Error:  3.037, Training Time on 100 Batches: 93 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 38587788 get requests, put_count=38587132 evicted_count=37000 eviction_rate=0.000958869 and unsatisfied allocation rate=0.000989588
+Epoch:   1/5, Batch: 4600/5417, Training Loss Error:  3.815, Training Time on 100 Batches: 75 seconds
+Epoch:   1/5, Batch: 4700/5417, Training Loss Error:  3.800, Training Time on 100 Batches: 109 seconds
+Epoch:   1/5, Batch: 4800/5417, Training Loss Error:  4.569, Training Time on 100 Batches: 57 seconds
+Epoch:   1/5, Batch: 4900/5417, Training Loss Error:  4.010, Training Time on 100 Batches: 78 seconds
+Epoch:   1/5, Batch: 5000/5417, Training Loss Error:  3.488, Training Time on 100 Batches: 73 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 42873497 get requests, put_count=42873932 evicted_count=47000 eviction_rate=0.00109624 and unsatisfied allocation rate=0.00109846
+Epoch:   1/5, Batch: 5100/5417, Training Loss Error:  3.007, Training Time on 100 Batches: 108 seconds
+Epoch:   1/5, Batch: 5200/5417, Training Loss Error:  3.652, Training Time on 100 Batches: 128 seconds
+Epoch:   1/5, Batch: 5300/5417, Training Loss Error:  3.140, Training Time on 100 Batches: 118 seconds
+Epoch:   1/5, Batch: 5400/5417, Training Loss Error:  3.064, Training Time on 100 Batches: 71 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 47206392 get requests, put_count=47206870 evicted_count=57000 eviction_rate=0.00120745 and unsatisfied allocation rate=0.00120857
+Validation Loss Error:  4.089, Batch Validation Time: 192 seconds
+I speak better now!!
+Epoch:   2/5, Batch:    0/5417, Training Loss Error:  0.398, Training Time on 100 Batches: 102 seconds
+Epoch:   2/5, Batch:  100/5417, Training Loss Error: 11.488, Training Time on 100 Batches: 87 seconds
+Epoch:   2/5, Batch:  200/5417, Training Loss Error: 17.383, Training Time on 100 Batches: 54 seconds
+Epoch:   2/5, Batch:  300/5417, Training Loss Error: 11.749, Training Time on 100 Batches: 34 seconds
+Epoch:   2/5, Batch:  400/5417, Training Loss Error:  7.368, Training Time on 100 Batches: 45 seconds
+Epoch:   2/5, Batch:  500/5417, Training Loss Error:  3.548, Training Time on 100 Batches: 37 seconds
+Epoch:   2/5, Batch:  600/5417, Training Loss Error:  3.655, Training Time on 100 Batches: 57 seconds
+Epoch:   2/5, Batch:  700/5417, Training Loss Error:  5.248, Training Time on 100 Batches: 48 seconds
+Epoch:   2/5, Batch:  800/5417, Training Loss Error:  3.302, Training Time on 100 Batches: 69 seconds
+Epoch:   2/5, Batch:  900/5417, Training Loss Error:  2.677, Training Time on 100 Batches: 84 seconds
+Epoch:   2/5, Batch: 1000/5417, Training Loss Error:  2.672, Training Time on 100 Batches: 56 seconds
+Epoch:   2/5, Batch: 1100/5417, Training Loss Error:  2.413, Training Time on 100 Batches: 89 seconds
+Epoch:   2/5, Batch: 1200/5417, Training Loss Error:  2.452, Training Time on 100 Batches: 85 seconds
+Epoch:   2/5, Batch: 1300/5417, Training Loss Error:  2.316, Training Time on 100 Batches: 127 seconds
+Epoch:   2/5, Batch: 1400/5417, Training Loss Error:  2.369, Training Time on 100 Batches: 49 seconds
+Epoch:   2/5, Batch: 1500/5417, Training Loss Error:  2.566, Training Time on 100 Batches: 44 seconds
+Epoch:   2/5, Batch: 1600/5417, Training Loss Error:  3.333, Training Time on 100 Batches: 83 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 61829507 get requests, put_count=61829986 evicted_count=67000 eviction_rate=0.00108362 and unsatisfied allocation rate=0.00108445
+Epoch:   2/5, Batch: 1700/5417, Training Loss Error:  2.490, Training Time on 100 Batches: 57 seconds
+Epoch:   2/5, Batch: 1800/5417, Training Loss Error:  2.252, Training Time on 100 Batches: 41 seconds
+Epoch:   2/5, Batch: 1900/5417, Training Loss Error:  2.312, Training Time on 100 Batches: 89 seconds
+Epoch:   2/5, Batch: 2000/5417, Training Loss Error:  2.147, Training Time on 100 Batches: 55 seconds
+Epoch:   2/5, Batch: 2100/5417, Training Loss Error:  2.695, Training Time on 100 Batches: 42 seconds
+Epoch:   2/5, Batch: 2200/5417, Training Loss Error:  2.179, Training Time on 100 Batches: 77 seconds
+Epoch:   2/5, Batch: 2300/5417, Training Loss Error:  2.823, Training Time on 100 Batches: 118 seconds
+Epoch:   2/5, Batch: 2400/5417, Training Loss Error:  4.875, Training Time on 100 Batches: 42 seconds
+Epoch:   2/5, Batch: 2500/5417, Training Loss Error: 21.768, Training Time on 100 Batches: 84 seconds
+Epoch:   2/5, Batch: 2600/5417, Training Loss Error: 12.785, Training Time on 100 Batches: 100 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 71240258 get requests, put_count=71238145 evicted_count=77000 eviction_rate=0.00108088 and unsatisfied allocation rate=0.00111795
+Epoch:   2/5, Batch: 2700/5417, Training Loss Error: 10.765, Training Time on 100 Batches: 64 seconds
+Validation Loss Error:  5.653, Batch Validation Time: 191 seconds
+Sorry I do not speak better, I need to practice more.
+Epoch:   2/5, Batch: 2800/5417, Training Loss Error:  3.305, Training Time on 100 Batches: 76 seconds
+Epoch:   2/5, Batch: 2900/5417, Training Loss Error:  6.057, Training Time on 100 Batches: 42 seconds
+Epoch:   2/5, Batch: 3000/5417, Training Loss Error:  3.087, Training Time on 100 Batches: 98 seconds
+Epoch:   2/5, Batch: 3100/5417, Training Loss Error:  3.168, Training Time on 100 Batches: 133 seconds
+Epoch:   2/5, Batch: 3200/5417, Training Loss Error:  4.693, Training Time on 100 Batches: 75 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 78038649 get requests, put_count=78039127 evicted_count=87000 eviction_rate=0.00111483 and unsatisfied allocation rate=0.0011155
+Epoch:   2/5, Batch: 3300/5417, Training Loss Error:  2.875, Training Time on 100 Batches: 58 seconds
+Epoch:   2/5, Batch: 3400/5417, Training Loss Error:  2.197, Training Time on 100 Batches: 81 seconds
+Epoch:   2/5, Batch: 3500/5417, Training Loss Error:  2.144, Training Time on 100 Batches: 65 seconds
+Epoch:   2/5, Batch: 3600/5417, Training Loss Error:  2.088, Training Time on 100 Batches: 48 seconds
+Epoch:   2/5, Batch: 3700/5417, Training Loss Error:  2.957, Training Time on 100 Batches: 118 seconds
+Epoch:   2/5, Batch: 3800/5417, Training Loss Error:  2.104, Training Time on 100 Batches: 69 seconds
+Epoch:   2/5, Batch: 3900/5417, Training Loss Error:  2.146, Training Time on 100 Batches: 117 seconds
+Epoch:   2/5, Batch: 4000/5417, Training Loss Error:  2.056, Training Time on 100 Batches: 73 seconds
+Epoch:   2/5, Batch: 4100/5417, Training Loss Error:  2.246, Training Time on 100 Batches: 68 seconds
+Epoch:   2/5, Batch: 4200/5417, Training Loss Error:  2.109, Training Time on 100 Batches: 83 seconds
+Epoch:   2/5, Batch: 4300/5417, Training Loss Error:  2.043, Training Time on 100 Batches: 95 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 88308707 get requests, put_count=88308755 evicted_count=97000 eviction_rate=0.00109842 and unsatisfied allocation rate=0.00110388
+Epoch:   2/5, Batch: 4400/5417, Training Loss Error:  2.280, Training Time on 100 Batches: 66 seconds
+Epoch:   2/5, Batch: 4500/5417, Training Loss Error:  2.074, Training Time on 100 Batches: 92 seconds
+Epoch:   2/5, Batch: 4600/5417, Training Loss Error:  2.599, Training Time on 100 Batches: 73 seconds
+Epoch:   2/5, Batch: 4700/5417, Training Loss Error:  2.324, Training Time on 100 Batches: 112 seconds
+Epoch:   2/5, Batch: 4800/5417, Training Loss Error:  2.225, Training Time on 100 Batches: 57 seconds
+Epoch:   2/5, Batch: 4900/5417, Training Loss Error:  2.401, Training Time on 100 Batches: 78 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 94190013 get requests, put_count=94190110 evicted_count=107000 eviction_rate=0.001136 and unsatisfied allocation rate=0.0011406
+Epoch:   2/5, Batch: 5000/5417, Training Loss Error:  2.325, Training Time on 100 Batches: 73 seconds
+Epoch:   2/5, Batch: 5100/5417, Training Loss Error:  2.175, Training Time on 100 Batches: 108 seconds
+Epoch:   2/5, Batch: 5200/5417, Training Loss Error:  2.287, Training Time on 100 Batches: 130 seconds
+Epoch:   2/5, Batch: 5300/5417, Training Loss Error:  2.435, Training Time on 100 Batches: 120 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 98071989 get requests, put_count=98071873 evicted_count=117000 eviction_rate=0.001193 and unsatisfied allocation rate=0.00119959
+Epoch:   2/5, Batch: 5400/5417, Training Loss Error:  2.291, Training Time on 100 Batches: 68 seconds
+Validation Loss Error:  5.865, Batch Validation Time: 191 seconds
+Sorry I do not speak better, I need to practice more.
+Epoch:   3/5, Batch:    0/5417, Training Loss Error:  0.451, Training Time on 100 Batches: 104 seconds
+Epoch:   3/5, Batch:  100/5417, Training Loss Error: 81.091, Training Time on 100 Batches: 87 seconds
+Epoch:   3/5, Batch:  200/5417, Training Loss Error: 26.907, Training Time on 100 Batches: 52 seconds
+Epoch:   3/5, Batch:  300/5417, Training Loss Error: 16.745, Training Time on 100 Batches: 35 seconds
+Epoch:   3/5, Batch:  400/5417, Training Loss Error: 14.708, Training Time on 100 Batches: 45 seconds
+Epoch:   3/5, Batch:  500/5417, Training Loss Error: 11.003, Training Time on 100 Batches: 38 seconds
+Epoch:   3/5, Batch:  600/5417, Training Loss Error: 11.891, Training Time on 100 Batches: 56 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 105818920 get requests, put_count=105819398 evicted_count=127000 eviction_rate=0.00120016 and unsatisfied allocation rate=0.00120065
+Epoch:   3/5, Batch:  700/5417, Training Loss Error:  6.632, Training Time on 100 Batches: 48 seconds
+Epoch:   3/5, Batch:  800/5417, Training Loss Error:  6.706, Training Time on 100 Batches: 69 seconds
+Epoch:   3/5, Batch:  900/5417, Training Loss Error:  5.798, Training Time on 100 Batches: 85 seconds
+Epoch:   3/5, Batch: 1000/5417, Training Loss Error:  6.420, Training Time on 100 Batches: 57 seconds
+Epoch:   3/5, Batch: 1100/5417, Training Loss Error:  7.100, Training Time on 100 Batches: 88 seconds
+Epoch:   3/5, Batch: 1200/5417, Training Loss Error:  7.911, Training Time on 100 Batches: 85 seconds
+Epoch:   3/5, Batch: 1300/5417, Training Loss Error:  3.945, Training Time on 100 Batches: 127 seconds
+Epoch:   3/5, Batch: 1400/5417, Training Loss Error:  3.264, Training Time on 100 Batches: 48 seconds
+Epoch:   3/5, Batch: 1500/5417, Training Loss Error:  4.225, Training Time on 100 Batches: 44 seconds
+Epoch:   3/5, Batch: 1600/5417, Training Loss Error:  2.601, Training Time on 100 Batches: 83 seconds
+Epoch:   3/5, Batch: 1700/5417, Training Loss Error:  2.737, Training Time on 100 Batches: 57 seconds
+Epoch:   3/5, Batch: 1800/5417, Training Loss Error:  2.508, Training Time on 100 Batches: 40 seconds
+Epoch:   3/5, Batch: 1900/5417, Training Loss Error:  7.824, Training Time on 100 Batches: 89 seconds
+Epoch:   3/5, Batch: 2000/5417, Training Loss Error:  7.105, Training Time on 100 Batches: 55 seconds
+Epoch:   3/5, Batch: 2100/5417, Training Loss Error: 12.930, Training Time on 100 Batches: 42 seconds
+Epoch:   3/5, Batch: 2200/5417, Training Loss Error:  9.187, Training Time on 100 Batches: 78 seconds
+Epoch:   3/5, Batch: 2300/5417, Training Loss Error:  5.143, Training Time on 100 Batches: 121 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 119946676 get requests, put_count=119947154 evicted_count=137000 eviction_rate=0.00114217 and unsatisfied allocation rate=0.00114261
+Epoch:   3/5, Batch: 2400/5417, Training Loss Error:  3.082, Training Time on 100 Batches: 41 seconds
+Epoch:   3/5, Batch: 2500/5417, Training Loss Error:  2.995, Training Time on 100 Batches: 84 seconds
+Epoch:   3/5, Batch: 2600/5417, Training Loss Error:  2.578, Training Time on 100 Batches: 99 seconds
+Epoch:   3/5, Batch: 2700/5417, Training Loss Error:  3.334, Training Time on 100 Batches: 63 seconds
+Validation Loss Error: 26.812, Batch Validation Time: 191 seconds
+Sorry I do not speak better, I need to practice more.
+Epoch:   3/5, Batch: 2800/5417, Training Loss Error:  7.262, Training Time on 100 Batches: 77 seconds
+Epoch:   3/5, Batch: 2900/5417, Training Loss Error:  3.221, Training Time on 100 Batches: 42 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 126988794 get requests, put_count=126989078 evicted_count=147000 eviction_rate=0.00115758 and unsatisfied allocation rate=0.00115952
+Epoch:   3/5, Batch: 3000/5417, Training Loss Error:  2.860, Training Time on 100 Batches: 98 seconds
+Epoch:   3/5, Batch: 3100/5417, Training Loss Error:  4.685, Training Time on 100 Batches: 133 seconds
+Epoch:   3/5, Batch: 3200/5417, Training Loss Error:  2.906, Training Time on 100 Batches: 75 seconds
+Epoch:   3/5, Batch: 3300/5417, Training Loss Error:  2.925, Training Time on 100 Batches: 56 seconds
+Epoch:   3/5, Batch: 3400/5417, Training Loss Error:  2.540, Training Time on 100 Batches: 79 seconds
+Epoch:   3/5, Batch: 3500/5417, Training Loss Error:  2.620, Training Time on 100 Batches: 64 seconds
+Epoch:   3/5, Batch: 3600/5417, Training Loss Error:  3.025, Training Time on 100 Batches: 49 seconds
+Epoch:   3/5, Batch: 3700/5417, Training Loss Error:  3.594, Training Time on 100 Batches: 120 seconds
+Epoch:   3/5, Batch: 3800/5417, Training Loss Error:  3.266, Training Time on 100 Batches: 68 seconds
+Epoch:   3/5, Batch: 3900/5417, Training Loss Error: 12.454, Training Time on 100 Batches: 115 seconds
+Epoch:   3/5, Batch: 4000/5417, Training Loss Error:  9.471, Training Time on 100 Batches: 73 seconds
+Epoch:   3/5, Batch: 4100/5417, Training Loss Error:  7.752, Training Time on 100 Batches: 66 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 137481423 get requests, put_count=137481426 evicted_count=157000 eviction_rate=0.00114197 and unsatisfied allocation rate=0.00114581
+Epoch:   3/5, Batch: 4200/5417, Training Loss Error:  5.861, Training Time on 100 Batches: 83 seconds
+Epoch:   3/5, Batch: 4300/5417, Training Loss Error: 11.838, Training Time on 100 Batches: 95 seconds
+Epoch:   3/5, Batch: 4400/5417, Training Loss Error:  6.034, Training Time on 100 Batches: 65 seconds
+Epoch:   3/5, Batch: 4500/5417, Training Loss Error:  2.956, Training Time on 100 Batches: 93 seconds
+Epoch:   3/5, Batch: 4600/5417, Training Loss Error:  3.101, Training Time on 100 Batches: 72 seconds
+Epoch:   3/5, Batch: 4700/5417, Training Loss Error:  5.068, Training Time on 100 Batches: 110 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 143997085 get requests, put_count=143997563 evicted_count=167000 eviction_rate=0.00115974 and unsatisfied allocation rate=0.00116011
+Epoch:   3/5, Batch: 4800/5417, Training Loss Error:  3.140, Training Time on 100 Batches: 58 seconds
+Epoch:   3/5, Batch: 4900/5417, Training Loss Error:  2.561, Training Time on 100 Batches: 78 seconds
+Epoch:   3/5, Batch: 5000/5417, Training Loss Error:  3.112, Training Time on 100 Batches: 72 seconds
+Epoch:   3/5, Batch: 5100/5417, Training Loss Error:  4.767, Training Time on 100 Batches: 107 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 147483389 get requests, put_count=147483423 evicted_count=177000 eviction_rate=0.00120013 and unsatisfied allocation rate=0.0012035
+Epoch:   3/5, Batch: 5200/5417, Training Loss Error:  2.903, Training Time on 100 Batches: 127 seconds
+Epoch:   3/5, Batch: 5300/5417, Training Loss Error:  7.294, Training Time on 100 Batches: 116 seconds
+Epoch:   3/5, Batch: 5400/5417, Training Loss Error: 20.462, Training Time on 100 Batches: 68 seconds
+Validation Loss Error: 16.131, Batch Validation Time: 190 seconds
+Sorry I do not speak better, I need to practice more.
+Epoch:   4/5, Batch:    0/5417, Training Loss Error:  2.038, Training Time on 100 Batches: 102 seconds
+Epoch:   4/5, Batch:  100/5417, Training Loss Error: 10.090, Training Time on 100 Batches: 87 seconds
+Epoch:   4/5, Batch:  200/5417, Training Loss Error:  6.492, Training Time on 100 Batches: 52 seconds
+Epoch:   4/5, Batch:  300/5417, Training Loss Error:  5.260, Training Time on 100 Batches: 35 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 154684959 get requests, put_count=154685437 evicted_count=187000 eviction_rate=0.00120891 and unsatisfied allocation rate=0.00120924
+Epoch:   4/5, Batch:  400/5417, Training Loss Error:  5.351, Training Time on 100 Batches: 45 seconds
+Epoch:   4/5, Batch:  500/5417, Training Loss Error:  4.232, Training Time on 100 Batches: 38 seconds
+Epoch:   4/5, Batch:  600/5417, Training Loss Error: 19.152, Training Time on 100 Batches: 55 seconds
+Epoch:   4/5, Batch:  700/5417, Training Loss Error:  7.523, Training Time on 100 Batches: 48 seconds
+Epoch:   4/5, Batch:  800/5417, Training Loss Error:  4.574, Training Time on 100 Batches: 70 seconds
+Epoch:   4/5, Batch:  900/5417, Training Loss Error:  4.602, Training Time on 100 Batches: 85 seconds
+Epoch:   4/5, Batch: 1000/5417, Training Loss Error:  6.857, Training Time on 100 Batches: 55 seconds
+Epoch:   4/5, Batch: 1100/5417, Training Loss Error:  3.057, Training Time on 100 Batches: 88 seconds
+Epoch:   4/5, Batch: 1200/5417, Training Loss Error:  3.108, Training Time on 100 Batches: 85 seconds
+Epoch:   4/5, Batch: 1300/5417, Training Loss Error:  2.436, Training Time on 100 Batches: 127 seconds
+Epoch:   4/5, Batch: 1400/5417, Training Loss Error:  2.740, Training Time on 100 Batches: 49 seconds
+Epoch:   4/5, Batch: 1500/5417, Training Loss Error: 23.035, Training Time on 100 Batches: 44 seconds
+Epoch:   4/5, Batch: 1600/5417, Training Loss Error:  9.884, Training Time on 100 Batches: 83 seconds
+Epoch:   4/5, Batch: 1700/5417, Training Loss Error:  7.594, Training Time on 100 Batches: 56 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 166605452 get requests, put_count=166605784 evicted_count=197000 eviction_rate=0.00118243 and unsatisfied allocation rate=0.00118362
+Epoch:   4/5, Batch: 1800/5417, Training Loss Error:  7.042, Training Time on 100 Batches: 40 seconds
+Epoch:   4/5, Batch: 1900/5417, Training Loss Error:  6.043, Training Time on 100 Batches: 89 seconds
+Epoch:   4/5, Batch: 2000/5417, Training Loss Error:  8.087, Training Time on 100 Batches: 56 seconds
+Epoch:   4/5, Batch: 2100/5417, Training Loss Error:  5.790, Training Time on 100 Batches: 42 seconds
+Epoch:   4/5, Batch: 2200/5417, Training Loss Error:  3.832, Training Time on 100 Batches: 77 seconds
+Epoch:   4/5, Batch: 2300/5417, Training Loss Error:  4.567, Training Time on 100 Batches: 120 seconds
+Epoch:   4/5, Batch: 2400/5417, Training Loss Error:  3.137, Training Time on 100 Batches: 41 seconds
+Epoch:   4/5, Batch: 2500/5417, Training Loss Error:  4.576, Training Time on 100 Batches: 84 seconds
+Epoch:   4/5, Batch: 2600/5417, Training Loss Error:  4.848, Training Time on 100 Batches: 101 seconds
+Epoch:   4/5, Batch: 2700/5417, Training Loss Error:  3.102, Training Time on 100 Batches: 64 seconds
+Validation Loss Error:  7.008, Batch Validation Time: 190 seconds
+Sorry I do not speak better, I need to practice more.
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 176460689 get requests, put_count=176460580 evicted_count=207000 eviction_rate=0.00117307 and unsatisfied allocation rate=0.00117669
+Epoch:   4/5, Batch: 2800/5417, Training Loss Error:  4.521, Training Time on 100 Batches: 77 seconds
+Epoch:   4/5, Batch: 2900/5417, Training Loss Error:  3.273, Training Time on 100 Batches: 42 seconds
+Epoch:   4/5, Batch: 3000/5417, Training Loss Error:  2.835, Training Time on 100 Batches: 98 seconds
+Epoch:   4/5, Batch: 3100/5417, Training Loss Error:  3.750, Training Time on 100 Batches: 134 seconds
+Epoch:   4/5, Batch: 3200/5417, Training Loss Error:  3.442, Training Time on 100 Batches: 74 seconds
+Epoch:   4/5, Batch: 3300/5417, Training Loss Error:  2.776, Training Time on 100 Batches: 56 seconds
+Epoch:   4/5, Batch: 3400/5417, Training Loss Error:  3.132, Training Time on 100 Batches: 80 seconds
+Epoch:   4/5, Batch: 3500/5417, Training Loss Error:  4.022, Training Time on 100 Batches: 65 seconds
+Epoch:   4/5, Batch: 3600/5417, Training Loss Error:  2.786, Training Time on 100 Batches: 48 seconds
+Epoch:   4/5, Batch: 3700/5417, Training Loss Error: 11.067, Training Time on 100 Batches: 120 seconds
+Epoch:   4/5, Batch: 3800/5417, Training Loss Error: 16.295, Training Time on 100 Batches: 67 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 186251295 get requests, put_count=186251773 evicted_count=217000 eviction_rate=0.00116509 and unsatisfied allocation rate=0.00116537
+Epoch:   4/5, Batch: 3900/5417, Training Loss Error: 11.033, Training Time on 100 Batches: 115 seconds
+Epoch:   4/5, Batch: 4000/5417, Training Loss Error:  6.787, Training Time on 100 Batches: 71 seconds
+Epoch:   4/5, Batch: 4100/5417, Training Loss Error:  6.953, Training Time on 100 Batches: 67 seconds
+Epoch:   4/5, Batch: 4200/5417, Training Loss Error:  5.081, Training Time on 100 Batches: 82 seconds
+Epoch:   4/5, Batch: 4300/5417, Training Loss Error: 30.925, Training Time on 100 Batches: 93 seconds
+Epoch:   4/5, Batch: 4400/5417, Training Loss Error: 23.086, Training Time on 100 Batches: 63 seconds
+Epoch:   4/5, Batch: 4500/5417, Training Loss Error: 17.819, Training Time on 100 Batches: 92 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 193803165 get requests, put_count=193803359 evicted_count=227000 eviction_rate=0.00117129 and unsatisfied allocation rate=0.00117303
+Epoch:   4/5, Batch: 4600/5417, Training Loss Error: 10.547, Training Time on 100 Batches: 73 seconds
+Epoch:   4/5, Batch: 4700/5417, Training Loss Error:  7.524, Training Time on 100 Batches: 111 seconds
+Epoch:   4/5, Batch: 4800/5417, Training Loss Error:  6.689, Training Time on 100 Batches: 59 seconds
+Epoch:   4/5, Batch: 4900/5417, Training Loss Error:  5.434, Training Time on 100 Batches: 77 seconds
+Epoch:   4/5, Batch: 5000/5417, Training Loss Error:  8.946, Training Time on 100 Batches: 72 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 198508647 get requests, put_count=198507743 evicted_count=237000 eviction_rate=0.00119391 and unsatisfied allocation rate=0.00120113
+Epoch:   4/5, Batch: 5100/5417, Training Loss Error:  4.129, Training Time on 100 Batches: 108 seconds
+Epoch:   4/5, Batch: 5200/5417, Training Loss Error:  3.150, Training Time on 100 Batches: 127 seconds
+Epoch:   4/5, Batch: 5300/5417, Training Loss Error:  3.506, Training Time on 100 Batches: 118 seconds
+Epoch:   4/5, Batch: 5400/5417, Training Loss Error:  4.163, Training Time on 100 Batches: 67 seconds
+Validation Loss Error:  7.462, Batch Validation Time: 191 seconds
+Sorry I do not speak better, I need to practice more.
+Epoch:   5/5, Batch:    0/5417, Training Loss Error:  0.452, Training Time on 100 Batches: 103 seconds
+Epoch:   5/5, Batch:  100/5417, Training Loss Error:  6.234, Training Time on 100 Batches: 87 seconds
+Epoch:   5/5, Batch:  200/5417, Training Loss Error:  3.170, Training Time on 100 Batches: 53 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 205448968 get requests, put_count=205449446 evicted_count=247000 eviction_rate=0.00120224 and unsatisfied allocation rate=0.0012025
+Epoch:   5/5, Batch:  300/5417, Training Loss Error:  3.530, Training Time on 100 Batches: 35 seconds
+Epoch:   5/5, Batch:  400/5417, Training Loss Error:  3.095, Training Time on 100 Batches: 45 seconds
+Epoch:   5/5, Batch:  500/5417, Training Loss Error:  2.511, Training Time on 100 Batches: 37 seconds
+Epoch:   5/5, Batch:  600/5417, Training Loss Error:  3.035, Training Time on 100 Batches: 55 seconds
+Epoch:   5/5, Batch:  700/5417, Training Loss Error:  4.704, Training Time on 100 Batches: 50 seconds
+Epoch:   5/5, Batch:  800/5417, Training Loss Error:  3.342, Training Time on 100 Batches: 69 seconds
+Epoch:   5/5, Batch:  900/5417, Training Loss Error:  4.296, Training Time on 100 Batches: 84 seconds
+Epoch:   5/5, Batch: 1000/5417, Training Loss Error:  2.866, Training Time on 100 Batches: 55 seconds
+Epoch:   5/5, Batch: 1100/5417, Training Loss Error:  3.185, Training Time on 100 Batches: 88 seconds
+Epoch:   5/5, Batch: 1200/5417, Training Loss Error:  3.454, Training Time on 100 Batches: 85 seconds
+Epoch:   5/5, Batch: 1300/5417, Training Loss Error:  4.217, Training Time on 100 Batches: 126 seconds
+Epoch:   5/5, Batch: 1400/5417, Training Loss Error:  3.112, Training Time on 100 Batches: 49 seconds
+Epoch:   5/5, Batch: 1500/5417, Training Loss Error:  4.534, Training Time on 100 Batches: 44 seconds
+Epoch:   5/5, Batch: 1600/5417, Training Loss Error:  9.884, Training Time on 100 Batches: 83 seconds
+Epoch:   5/5, Batch: 1700/5417, Training Loss Error:  8.006, Training Time on 100 Batches: 56 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 218122079 get requests, put_count=218121064 evicted_count=257000 eviction_rate=0.00117824 and unsatisfied allocation rate=0.00118532
+Epoch:   5/5, Batch: 1800/5417, Training Loss Error:  9.260, Training Time on 100 Batches: 40 seconds
+Epoch:   5/5, Batch: 1900/5417, Training Loss Error:  4.209, Training Time on 100 Batches: 90 seconds
+Epoch:   5/5, Batch: 2000/5417, Training Loss Error:  9.149, Training Time on 100 Batches: 55 seconds
+Epoch:   5/5, Batch: 2100/5417, Training Loss Error:  6.183, Training Time on 100 Batches: 43 seconds
+Epoch:   5/5, Batch: 2200/5417, Training Loss Error:  6.332, Training Time on 100 Batches: 79 seconds
+Epoch:   5/5, Batch: 2300/5417, Training Loss Error: 29.974, Training Time on 100 Batches: 119 seconds
+Epoch:   5/5, Batch: 2400/5417, Training Loss Error: 11.496, Training Time on 100 Batches: 41 seconds
+Epoch:   5/5, Batch: 2500/5417, Training Loss Error:  9.048, Training Time on 100 Batches: 84 seconds
+Epoch:   5/5, Batch: 2600/5417, Training Loss Error:  9.250, Training Time on 100 Batches: 98 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 226456397 get requests, put_count=226455722 evicted_count=267000 eviction_rate=0.00117904 and unsatisfied allocation rate=0.00118436
+Epoch:   5/5, Batch: 2700/5417, Training Loss Error:  6.919, Training Time on 100 Batches: 64 seconds
+Validation Loss Error:  7.325, Batch Validation Time: 191 seconds
+Sorry I do not speak better, I need to practice more.
+Epoch:   5/5, Batch: 2800/5417, Training Loss Error:  5.432, Training Time on 100 Batches: 77 seconds
+Epoch:   5/5, Batch: 2900/5417, Training Loss Error:  4.442, Training Time on 100 Batches: 43 seconds
+Epoch:   5/5, Batch: 3000/5417, Training Loss Error:  4.483, Training Time on 100 Batches: 97 seconds
+Epoch:   5/5, Batch: 3100/5417, Training Loss Error:  4.231, Training Time on 100 Batches: 134 seconds
+Epoch:   5/5, Batch: 3200/5417, Training Loss Error:  4.073, Training Time on 100 Batches: 74 seconds
+Epoch:   5/5, Batch: 3300/5417, Training Loss Error:  9.348, Training Time on 100 Batches: 56 seconds
+Epoch:   5/5, Batch: 3400/5417, Training Loss Error:  5.338, Training Time on 100 Batches: 79 seconds
+Epoch:   5/5, Batch: 3500/5417, Training Loss Error: 50.156, Training Time on 100 Batches: 65 seconds
+Epoch:   5/5, Batch: 3600/5417, Training Loss Error: 23.224, Training Time on 100 Batches: 49 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 236096784 get requests, put_count=236096977 evicted_count=277000 eviction_rate=0.00117325 and unsatisfied allocation rate=0.00117468
+Epoch:   5/5, Batch: 3700/5417, Training Loss Error: 12.800, Training Time on 100 Batches: 118 seconds
+Epoch:   5/5, Batch: 3800/5417, Training Loss Error: 11.345, Training Time on 100 Batches: 68 seconds
+Epoch:   5/5, Batch: 3900/5417, Training Loss Error: 11.529, Training Time on 100 Batches: 115 seconds
+Epoch:   5/5, Batch: 4000/5417, Training Loss Error:  7.151, Training Time on 100 Batches: 73 seconds
+Epoch:   5/5, Batch: 4100/5417, Training Loss Error:  6.060, Training Time on 100 Batches: 67 seconds
+Epoch:   5/5, Batch: 4200/5417, Training Loss Error:  5.557, Training Time on 100 Batches: 82 seconds
+Epoch:   5/5, Batch: 4300/5417, Training Loss Error:  4.147, Training Time on 100 Batches: 96 seconds
+Epoch:   5/5, Batch: 4400/5417, Training Loss Error:  5.154, Training Time on 100 Batches: 65 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 243740755 get requests, put_count=243741122 evicted_count=287000 eviction_rate=0.00117748 and unsatisfied allocation rate=0.00117815
+Epoch:   5/5, Batch: 4500/5417, Training Loss Error:  3.664, Training Time on 100 Batches: 93 seconds
+Epoch:   5/5, Batch: 4600/5417, Training Loss Error:  3.728, Training Time on 100 Batches: 71 seconds
+Epoch:   5/5, Batch: 4700/5417, Training Loss Error:  3.010, Training Time on 100 Batches: 110 seconds
+Epoch:   5/5, Batch: 4800/5417, Training Loss Error:  3.664, Training Time on 100 Batches: 57 seconds
+Epoch:   5/5, Batch: 4900/5417, Training Loss Error: 10.968, Training Time on 100 Batches: 78 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 249741562 get requests, put_count=249742042 evicted_count=297000 eviction_rate=0.00118923 and unsatisfied allocation rate=0.00118943
+Epoch:   5/5, Batch: 5000/5417, Training Loss Error: 17.783, Training Time on 100 Batches: 74 seconds
+Epoch:   5/5, Batch: 5100/5417, Training Loss Error:  8.958, Training Time on 100 Batches: 108 seconds
+Epoch:   5/5, Batch: 5200/5417, Training Loss Error:  8.909, Training Time on 100 Batches: 126 seconds
+Epoch:   5/5, Batch: 5300/5417, Training Loss Error:  4.248, Training Time on 100 Batches: 117 seconds
+I tensorflow/core/common_runtime/gpu/pool_allocator.cc:247] PoolAllocator: After 253967159 get requests, put_count=253966570 evicted_count=307000 eviction_rate=0.00120882 and unsatisfied allocation rate=0.00121322
+Epoch:   5/5, Batch: 5400/5417, Training Loss Error:  5.608, Training Time on 100 Batches: 68 seconds
+Validation Loss Error: 13.104, Batch Validation Time: 191 seconds
