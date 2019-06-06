@@ -1,8 +1,8 @@
 # ChatBot
-Sequence to Sequence model trained on cornell movie dataset and daily dialogue dataset
-You: hi. 
-ChatBot:  I am not sure I am not going to be aout.  
-You: how are you. 
+Sequence to Sequence model trained on cornell movie dataset and daily dialogue dataset.     
+You: hi.    
+ChatBot:  I am not sure I am not going to be aout.     
+You: how are you.   
 ChatBot:  I am not sure I am not sure.   
 You: Where are you from?  
 ChatBot:  I am not sure.  
