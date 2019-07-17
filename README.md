@@ -1,4 +1,9 @@
 # ChatBot
+
+
+This project explored the effect of the dataset on chatbot performance. The chatbot is trained on Cornell Movie Corpus, Daily Dialog Corpus, and the mix of Cornell Movie Corpus and Daily Dialog Corpus. In order to improve the performance of the chatbot, we trained a Dialog Act Classifier to label Cornell Movie Corpus. Then add the Dialog Act as a feature to train the Chatbot. We evaluated the chatbot in (1) grammaticality and (2) naturalness (3) interestingness for a sample of 100 for the three different models.
+
+
 Sequence to Sequence model trained on cornell movie dataset and daily dialogue dataset.     
 You: hi.    
 ChatBot:  I am not sure I am not going to be aout.     
