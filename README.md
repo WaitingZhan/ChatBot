@@ -1,7 +1,7 @@
 # ChatBot
 <img src="https://github.com/WaitingZhan/ChatBot/blob/master/chat%20bot%20model.png" width="400" height="500"> <img src="https://github.com/WaitingZhan/ChatBot/blob/master/chat%20bot%20parameter.png" width="400" height="500">
 
-This project explored the effect of the dataset and the learning rate and the number of hidden layers of the model on chatbot performance.  We trained our Chatbot on [Cornell Movie Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html), [Daily Dialog Corpus](http://yanran.li/dailydialog), and the mix of Cornell Movie Corpus and Daily Dialog Corpus. To improve the performance of the Chatbot, we trained a Dialog Act Classifier to label Cornell Movie Corpus. Then add the Dialog Act as a feature to train the Chatbot. We evaluated the performance of Chatbot in grammaticality, naturalness, and interestingness.
+This project explored the effect of the dataset and the learning rate and the number of hidden layers of the model on chatbot performance.  We trained our Chatbot on [Cornell Movie Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)which contains 220,579 conversational exchanges between 10,292 pairs of movie characters, [Daily Dialog Corpus](http://yanran.li/dailydialog) which contains 13,118 multi-turn dialogues, and the mix of Cornell Movie Corpus and Daily Dialog Corpus. To improve the performance of the Chatbot, we trained a Dialog Act Classifier to label Cornell Movie Corpus. Then add the Dialog Act as a feature to train the Chatbot. We evaluated the performance of Chatbot in grammaticality, naturalness, and interestingness.
 
 Sequence to Sequence model trained on cornell movie dataset and daily dialogue dataset.     
 You: hi.    
